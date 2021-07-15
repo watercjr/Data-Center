@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T03:35:57.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="J4Q4BptoCNi4ivWQD8Xn" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T03:42:48.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="89z5dxbMM-mCyFPFLsiX" version="14.8.6" type="github">
   <diagram id="nJ7iLp2a8bCrQwAc9PzQ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="53uhCKa-QQjaXPSf7U02-23" value="添加新设备" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="375" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="53uhCKa-QQjaXPSf7U02-24" value="已知设备" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="53uhCKa-QQjaXPSf7U02-24" value="&lt;font color=&quot;#999999&quot;&gt;已知设备&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="405" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="53uhCKa-QQjaXPSf7U02-25" value="xxx&#39;s phone" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
