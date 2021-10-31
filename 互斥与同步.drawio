@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T07:52:57.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.0" etag="q0icLScF4p3qucqp28VI" type="github"><diagram id="V7t_B7rqGoWsvhfv4BiP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-31T08:08:46.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="AP6Sft8CP1YeueUCVCvf" version="15.6.0" type="github">
+  <diagram id="V7t_B7rqGoWsvhfv4BiP" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-7" value="写线程1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-8" value="共享的一块内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="510" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-9" value="写线程2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-10" value="读线程1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-11" value="读线程2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-12" value="读线程3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="294.5" as="sourcePoint" />
+            <mxPoint x="330" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="404.5" as="sourcePoint" />
+            <mxPoint x="330" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="254.5" as="sourcePoint" />
+            <mxPoint x="610" y="254.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="344.5" as="sourcePoint" />
+            <mxPoint x="610" y="344.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="sourcePoint" />
+            <mxPoint x="610" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-25" value="&lt;span&gt;多个「&lt;/span&gt;写线程&lt;span&gt;&lt;br&gt;」同时写数据，可能导致数据错误覆盖&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-26" value="读线程读数据时并不会改变数据，因此多个「读线程&lt;br&gt;」可以同时读数据" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJNb7kw9RISnU1uJSwBD-27" value="读线程和写同时访问数据，可能导致读出的数据不一致" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;rotation=0;direction=west;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
